@@ -1,2 +1,2 @@
-# Dotfiles (WIP)
-just a bunch of backup configs so I don't have to configure my system again (This might include a rice)
+# Nix-Dots
+The base nixos configuration for Cat-Dots (Nix)
