@@ -1,0 +1,3 @@
+{
+  import = [ ./sway.nix ];
+}

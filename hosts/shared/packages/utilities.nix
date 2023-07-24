@@ -1,0 +1,37 @@
+{ pkgs, ... }: with pkgs; [
+  alsa-lib
+  alsa-plugins
+  alsa-tools
+  alsa-utils
+  aria2
+  blueman
+  brightnessctl
+  cava
+  exfatprogs
+  gammastep
+  gparted
+  git
+  iw
+  mpd
+  mpdris2
+  ncmpcpp
+  neofetch
+  neovim
+  ntfs3g
+  ocl-icd
+  p7zip
+  pamixer
+  patchelf
+  pavucontrol
+  playerctl
+  pciutils
+  slop
+  smartmontools
+  unzip
+  usbutils
+  tree
+  wget
+  wirelesstools
+  xdg-utils
+  xdg-user-dirs
+]
